@@ -4,11 +4,13 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "a": "github:tiroa/pxt-Fibonacci#41609458748e7b347e6d93427c8ee0e4151e2817"
     },
     "files": [
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
